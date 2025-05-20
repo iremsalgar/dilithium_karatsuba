@@ -1,0 +1,1 @@
+/usr/bin/cc  -pg "CMakeFiles/quantum-signature.dir/src/test.c.o" -o quantum-signature   -L/home/isalgar/karatsuba/liboqs/build/lib  -Wl,-rpath,/home/isalgar/karatsuba/liboqs/build/lib -loqs /usr/lib/aarch64-linux-gnu/libssl.so /usr/lib/aarch64-linux-gnu/libcrypto.so

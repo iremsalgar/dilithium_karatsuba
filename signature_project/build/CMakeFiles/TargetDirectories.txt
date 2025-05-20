@@ -1,0 +1,3 @@
+/home/isalgar/karatsuba/signature_project/build/CMakeFiles/quantum-signature.dir
+/home/isalgar/karatsuba/signature_project/build/CMakeFiles/edit_cache.dir
+/home/isalgar/karatsuba/signature_project/build/CMakeFiles/rebuild_cache.dir
